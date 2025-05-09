@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot is a project made with Python for the purpose of the [Boot.dev](https://www.boot.dev) course.
